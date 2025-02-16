@@ -1,0 +1,13 @@
+{
+	"fart": {
+		"sounds": [
+			"custom_sounds/fart"
+		]
+	},
+
+	"fart2": {
+		"sounds": [
+			"custom_sounds/fart2"
+		]
+	}
+}
