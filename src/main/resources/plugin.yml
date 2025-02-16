@@ -1,7 +1,0 @@
-name: Fart
-version: '1.1'
-main: oluni.official.minecraft.fart.Fart
-api-version: '1.21'
-commands:
-  fart:
-    permission: fart.fart
